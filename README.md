@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="windows-1252">
@@ -22,6 +22,6 @@
             <li><strong>The Urgency:</strong> Real IT requests rarely demand "immediate action within 10 minutes."</li>
         </ul>
     </div>
-    <p>Please report suspicious emails to <strong>IT Team</strong>.</p>
+    <p>Please report suspicious emails to <strong> the IT Team</strong>.</p>
 </body>
 </html>
