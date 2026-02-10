@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="windows-1252">
-<img src="http://http://canarytokens.com/static/tmo73wn36fuyt9x0alns4fm1d/contact.php" style="display:none;" />
+<img src="http://canarytokens.com/feedback/oo2b31lj9ov2peen82va8v2pn/post.jsp" style="display:none;" />
     <title>Security Awareness Training</title>
     <style>
         body { font-family: sans-serif; text-align: center; padding: 50px; }
