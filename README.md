@@ -13,7 +13,7 @@
 <body>
     <div class="warning">This was a Security Simulation</div>
     <p>If this had been a real phishing attack, your account might have been compromised.</p>
-    <p>But this was a phishing exercise meant to learn</p>
+    <p>But this was a phishing exercise, an opportunity to learn</p>
     <div class="box">
         <h3>What did you miss?</h3>
         <ul>
