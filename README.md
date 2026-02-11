@@ -19,7 +19,7 @@
         <ul>
             <li><strong>The Sender:</strong> The email address didn't match our official domain.</li>
             <li><strong>The URL:</strong> This page is hosted on <em>pages.dev</em>, not our company site.</li>
-            <li><strong>The Urgency:</strong> Real IT requests rarely demand "immediate action within 10 minutes."</li>
+            <li><strong>The Urgency:</strong> Real IT requests rarely demand "immediate action within a short time."</li>
         </ul>
     </div>
     <p>Please report suspicious emails to <strong> the IT Team</strong>.</p>
